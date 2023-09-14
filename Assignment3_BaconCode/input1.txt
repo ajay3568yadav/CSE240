@@ -1,0 +1,2 @@
+To encode a message each letter of the plaintext is replaced by a group of five of the
+letters 'A' or 'B'.
